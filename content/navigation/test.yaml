@@ -1,1 +1,5 @@
 title: test
+tree:
+  -
+    title: this
+    url: 'https://cleavr.io'
